@@ -1,7 +1,8 @@
-package com.assign.demo;
+package com.assign.demo.apps;
 
 import java.util.Scanner;
 
+import com.assign.demo.Book;
 import com.assign.demo.services.BookService;
 
 public class BookApplication {
